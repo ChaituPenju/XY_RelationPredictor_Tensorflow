@@ -1,7 +1,7 @@
 Predict relation between input(x) and output(y) values using Tensorflow
 ==============================
 
-<h3>This project is deployed locally in this Android App. <a target="_blank" href="https://github.com/ChaituPenju/XY_RelationPredictor_Tensorflow/">HERE</a>.#TensorFlow</h3>
+<h3>This project is deployed locally in this Android App. <a target="_blank" href="https://github.com/ChaituPenju/TensorflowXYApp">HERE</a>.#TensorFlow</h3>
 
 
 Getting Started
