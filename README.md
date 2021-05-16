@@ -38,6 +38,7 @@ Code Snippets
 <img src="https://raw.githubusercontent.com/ChaituPenju/XY_RelationPredictor_Tensorflow/main/screens/input_values.PNG">
 
 ***Output(predicted) Value***
+<br>
 <img src="https://raw.githubusercontent.com/ChaituPenju/XY_RelationPredictor_Tensorflow/main/screens/output_values.PNG">
 
 ***Testing local .tflite file via interpreter***
